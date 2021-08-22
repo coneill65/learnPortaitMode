@@ -1,0 +1,2 @@
+rootProject.name = "learnPortaitMode"
+include ':app'

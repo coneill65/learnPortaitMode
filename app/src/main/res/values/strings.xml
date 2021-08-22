@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">learnPortraitMode</string>
+    <string name="button">Click me</string>
+    <string name="entry">Enter text here</string>
+    <string name="button2">Click me</string>
+    <string name="display_text" />
+    <string name="paper_with_pen">paper with pen</string>
+</resources>
